@@ -53,6 +53,7 @@ body {
   height: 3px;
   position: absolute;
   top: 50%;
+  display: none;
   right: -5px;
   background-color: #24d278;
   -webkit-transform: translate(100%, -50%);
