@@ -6,6 +6,8 @@ body {
     line-height: 1.6;
 }
 
+
+
 header, footer {
     background-color: #333;
     color: white;
@@ -238,7 +240,7 @@ img{
         grid-gap: 1.5rem;
     }
     .card-wrapper{
-        height: 100vh;
+    
         display: flex;
         justify-content: center;
         align-items: center;
